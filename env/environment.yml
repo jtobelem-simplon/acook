@@ -1,0 +1,16 @@
+name: acook
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.7
+- pip
+- jupyter
+- jupyter_contrib_nbextensions
+- pandas
+- matplotlib
+- scikit-learn
+- numpy
+- folium
+- geopandas
+- py-xgboost
